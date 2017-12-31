@@ -1,4 +1,4 @@
-## Quickest way to random images to Structured Training Set of images dataset for Machine Learning 
+## Quickest way to change random images to Structured Training Set of images for Machine Learning 
 
 
 Here is a tiny little python code which helps to arrange all the random images into set of arrangements order for data-set training for Machine Learning or for any use 
